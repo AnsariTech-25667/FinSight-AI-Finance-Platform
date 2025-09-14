@@ -5,6 +5,7 @@
   "author": "Maaz Ansari",
   
   "scripts": {
+    "test": "jest",
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
