@@ -1,3 +1,6 @@
+![Build Status](https://github.com/AnsariTech-25667/FinSight-AI/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/AnsariTech-25667/FinSight-AI)
+
 # FinSight-AI: Intelligent Financial Tracking & Analysis
 
 ## Overview
