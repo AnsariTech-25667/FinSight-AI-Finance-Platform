@@ -70,3 +70,10 @@ This platform isn't just another finance tracker; it integrates AI to offer **sm
 
 ## Developed By
 This project was **independently designed and built by Maaz Ansari** to showcase expertise in **full-stack AI-powered development**. 🚀
+
+## Getting Started
+Run the following to install and start:
+```bash
+npm install
+npm start
+```
